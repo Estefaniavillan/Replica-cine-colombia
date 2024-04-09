@@ -6,7 +6,7 @@ del mundo del cine en colombia.
 
 #### Despliegues del proyecto 
 - Backend https://miniback-webpack.onrender.com
-- Frontend 
+- Frontend https://replica-cine-colombia.vercel.app/
 
 ### Descripción
 El proyecto Modulo 2 Fronted Replica Cine Colombia, se enfoca en la creacion de una replica de cine colombia, donde se descubre una amplia seleccion de peliculas, desde clasicos hasta los
